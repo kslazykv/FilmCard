@@ -1,0 +1,65 @@
+{
+    "elements":[
+                {
+                    "title": "Title 1",
+                    "description":"Description.",
+                    "bg":"picture1.jpg",
+                    "hd": true,
+                    "forAdults":true,
+                    "film":"https://www.youtube.com/embed/s9APLXM9Ei8"
+                },
+                {
+                    "title": "Title 2",
+                    "description":"Description.",
+                    "bg":"picture2.jpg",  
+                    "hd": false,
+                    "forAdults":false,
+                    "film":"https://www.youtube.com/embed/TmIEI4ky-Zc"
+            
+                },
+                {
+                    "title": "Title 3",
+                    "description":"Description.",
+                    "bg":"picture3.jpg",  
+                    "hd": true,
+                    "forAdults":false,
+                    "film":"https://www.youtube.com/embed/XzfsfYnuc8c"
+            
+                },
+                {
+                    "title": "Title 4",
+                    "description":"Description.",
+                    "bg":"picture4.jpg",  
+                    "hd": false,
+                    "forAdults":true,
+                    "film":"https://www.youtube.com/embed/Fy-QAIwV-D0"
+            
+                },
+                {
+                    "title": "Title 5",
+                    "description":"Description.",
+                    "bg":"picture5.jpg",  
+                    "hd": false,
+                    "forAdults":true,
+                    "film":"https://www.youtube.com/embed/xulAgMNK5Jk"
+            
+                } ,
+                {
+                    "title": "Title 6",
+                    "description":"Description.",
+                    "bg":"picture6.jpg",  
+                    "hd": true,
+                    "forAdults":true,
+                    "film":"https://www.youtube.com/embed/VueILsIMTm0"
+            
+                }, {
+                    "title": "Title 7",
+                    "description":"Description.",
+                    "bg":"picture7.jpg",  
+                    "hd": true,
+                    "forAdults":true,
+                    "film":"https://www.youtube.com/embed/209n4m6rwGc"
+                }
+            
+    ]
+}
