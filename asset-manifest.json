@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/FilmCard/static/css/main.3c2538f7.css",
+    "main.js": "/FilmCard/static/js/main.aa0f0397.js",
+    "static/js/787.0b2709a8.chunk.js": "/FilmCard/static/js/787.0b2709a8.chunk.js",
+    "static/media/slick.svg": "/FilmCard/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/FilmCard/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/FilmCard/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/FilmCard/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/FilmCard/index.html",
+    "main.3c2538f7.css.map": "/FilmCard/static/css/main.3c2538f7.css.map",
+    "main.aa0f0397.js.map": "/FilmCard/static/js/main.aa0f0397.js.map",
+    "787.0b2709a8.chunk.js.map": "/FilmCard/static/js/787.0b2709a8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3c2538f7.css",
+    "static/js/main.aa0f0397.js"
+  ]
+}
